@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #f36e6e !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    margin-bottom: 10px;
+}
+.container-fluid a{
+    color: white !important;
+}
+.navbar-brand{
+    font-family: 'Yeon Sung', cursive !important;
+}
